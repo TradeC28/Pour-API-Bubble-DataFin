@@ -1,0 +1,8 @@
+id_user;id;id_account;label;code;code_type;stock_symbol;stock_market;source;description;quantity;unitprice;unitvalue;valuation;diff;diff_percent;prev_diff;portfolio_share;vdate;prev_vdate;id_security;Classe d'actifs;Sous-segment;Zone geographique;Frais courants
+5;8;1;iShares EUR Ultrashort Bond UCITS ETF EUR (Acc);IE000RHYOR04;ISIN;ERNX;XETR;website;;1160.0;5.2536;5.3864;6248.22;61.936;0.0102;4.41;0.331512941442381;23/08/2024;22/08/2024;8;Obligations;Investment Grade;Europe;0.09
+5;4;1;Amundi Physical Gold ETC;FR0013416716;ISIN;GOLD;XPAR;website;;61.0;84.3742;101.4587;6188.98;290.117;0.0563;-0.31;0.32836983402122;23/08/2024;23/08/2024;4;Métaux précieux;Autres;Autres;0.0012
+5;2;1;SPDR MSCI EM Asia UCITS ETF;IE00B466KX20;ISIN;SPYA;XETR;website;;45.0;0.0;74.1598;3337.19;3163.05;0.0;27.9;0.177061894916008;23/08/2024;22/08/2024;2;Actions;Blend;Asie émergente;0.55
+5;6;1;iShares Core S&P 500 UCITS ETF USD (Acc);IE00B5BMR087;ISIN;SXR8;XETR;website;;4.0;495.0;608.9562;2435.82;144.92;0.0732;-6.64;0.129237743393187;23/08/2024;22/08/2024;6;Actions;Blend;Amérique du Nord;0.07
+5;5;1;iShares Nasdaq 100 UCITS ETF EUR Hedged Acc;IE00BYVQ9F29;ISIN;NQSE;XETR;website;;38.0;7.622;12.678;481.76;159.068;0.5492;-0.69;0.0255608276708057;23/08/2024;22/08/2024;5;Actions;Croissance;Amérique du Nord;0.36
+5;7;1;Air Liquide;FR0000120073;ISIN;AI;XPAR;website;;1.0;181.42;155.62;155.62;1.18;0.0072;0.92;0.00825675855639899;23/08/2024;22/08/2024;7;Actions;Autres;Europe;Non couvert
+5;9;1;Liquidités;XX-liquidity;;;;website;;;;;78.73;;;;;26/08/2024;20/08/2024;9;Monétaire;Autres;Europe;Non couvert

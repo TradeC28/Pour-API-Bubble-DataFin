@@ -1,0 +1,373 @@
+id,id_investment,vdate,unitvalue,original_currency,original_unitvalue,isin,id_user,investment_id
+7,8,2024-07-11,5.2838,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+14,8,2024-07-12,5.2864,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+21,8,2024-07-15,5.285,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+28,8,2024-07-16,5.2842,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+35,8,2024-07-17,5.285,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+63,8,2024-07-18,5.287,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+70,8,2024-07-19,5.2892,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+74,8,2024-07-20,5.2892,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+80,8,2024-07-22,5.2882,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+87,8,2024-07-23,5.2874,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+94,8,2024-07-24,5.2906,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+100,8,2024-07-25,5.291,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+106,8,2024-07-26,5.2942,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+112,8,2024-07-29,5.295,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+118,8,2024-07-30,5.2964,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+124,8,2024-07-31,5.295,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+130,8,2024-08-01,5.298,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+136,8,2024-08-02,5.296,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+142,8,2024-08-05,5.2926,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+148,8,2024-08-06,5.2956,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+154,8,2024-08-07,5.2952,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+160,8,2024-08-08,5.2994,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+166,8,2024-08-09,5.301,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+172,8,2024-08-12,5.303,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+178,8,2024-08-14,5.3028,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+184,8,2024-08-15,5.3058,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+190,8,2024-08-16,5.306,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+196,8,2024-08-19,5.3064,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+202,8,2024-08-22,5.3084,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+208,8,2024-08-23,5.3122,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE000RHYOR04,5,8
+3,4,2024-07-11,88.515,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+10,4,2024-07-12,87.807,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+17,4,2024-07-15,88.608,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+24,4,2024-07-16,89.771,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+31,4,2024-07-17,89.533,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+59,4,2024-07-18,89.818,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+66,4,2024-07-19,87.027,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+83,4,2024-07-23,87.993,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+90,4,2024-07-24,88.806,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+96,4,2024-07-25,86.522,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+102,4,2024-07-26,87.254,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+108,4,2024-07-29,87.198,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+114,4,2024-07-30,87.8,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+120,4,2024-07-31,88.91,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+126,4,2024-08-01,90.2,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+132,4,2024-08-02,88.19,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+138,4,2024-08-05,87.254,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+144,4,2024-08-06,86.764,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+150,4,2024-08-07,87.167,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+156,4,2024-08-08,87.905,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+162,4,2024-08-09,88.3,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+168,4,2024-08-12,89.206,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+174,4,2024-08-14,88.14,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+180,4,2024-08-15,88.694,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+186,4,2024-08-16,89.939,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+192,4,2024-08-19,89.896,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+198,4,2024-08-22,88.575,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+204,4,2024-08-23,89.295,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0013416716,5,4
+1,2,2024-07-11,73.81,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+8,2,2024-07-12,73.85,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+15,2,2024-07-15,73.14,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+22,2,2024-07-16,73.1,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+29,2,2024-07-17,72.08,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+57,2,2024-07-18,71.6,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+64,2,2024-07-19,70.78,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+71,2,2024-07-20,70.78,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+75,2,2024-07-21,70.96,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+81,2,2024-07-23,71.18,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+88,2,2024-07-24,70.37,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+95,2,2024-07-25,69.79,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+101,2,2024-07-26,70.2,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+107,2,2024-07-29,70.2,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+113,2,2024-07-30,69.96,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+119,2,2024-07-31,71.5,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+125,2,2024-08-01,70.98,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+131,2,2024-08-02,68.43,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+137,2,2024-08-05,65.92,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+143,2,2024-08-06,66.43,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+149,2,2024-08-07,68.13,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+155,2,2024-08-08,68.58,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+161,2,2024-08-09,68.79,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+167,2,2024-08-12,69.16,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+173,2,2024-08-14,68.86,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+179,2,2024-08-15,69.71,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+185,2,2024-08-16,70.33,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+191,2,2024-08-19,70.59,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+197,2,2024-08-22,69.67,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+203,2,2024-08-23,70.29,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B466KX20,5,2
+5,6,2024-07-11,543.06,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+12,6,2024-07-12,545.14,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+19,6,2024-07-15,546.92,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+26,6,2024-07-16,547.78,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+33,6,2024-07-17,541.08,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+61,6,2024-07-18,537.8,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+68,6,2024-07-19,534.56,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+73,6,2024-07-20,534.56,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+78,6,2024-07-22,536.78,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+85,6,2024-07-23,542.66,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+92,6,2024-07-24,531.52,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+98,6,2024-07-25,529.9,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+104,6,2024-07-26,529.76,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+110,6,2024-07-29,531.3,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+116,6,2024-07-30,530.76,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+122,6,2024-07-31,539.04,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+128,6,2024-08-01,535.84,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+134,6,2024-08-02,514.1,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+140,6,2024-08-05,502.5,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+146,6,2024-08-06,507.44,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+152,6,2024-08-07,513.2,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+158,6,2024-08-08,512.5,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+164,6,2024-08-09,514.78,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+170,6,2024-08-12,515.88,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+176,6,2024-08-14,522.26,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+182,6,2024-08-15,531.58,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+188,6,2024-08-16,532.1,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+194,6,2024-08-19,532.58,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+200,6,2024-08-22,533.14,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+206,6,2024-08-23,531.48,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00B5BMR087,5,6
+4,5,2024-07-11,12.214,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+11,5,2024-07-12,12.288,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+18,5,2024-07-15,12.336,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+25,5,2024-07-16,12.228,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+32,5,2024-07-17,11.996,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+60,5,2024-07-18,11.824,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+67,5,2024-07-19,11.764,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+72,5,2024-07-20,11.764,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+77,5,2024-07-22,11.814,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+84,5,2024-07-23,11.966,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+91,5,2024-07-24,11.576,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+97,5,2024-07-25,11.462,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+103,5,2024-07-26,11.408,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+109,5,2024-07-29,11.424,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+115,5,2024-07-30,11.336,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+121,5,2024-07-31,11.632,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+127,5,2024-08-01,11.486,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+133,5,2024-08-02,11.058,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+139,5,2024-08-05,10.842,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+145,5,2024-08-06,10.908,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+151,5,2024-08-07,11.05,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+157,5,2024-08-08,11.008,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+163,5,2024-08-09,11.076,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+169,5,2024-08-12,11.136,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+175,5,2024-08-14,11.444,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+181,5,2024-08-15,11.66,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+187,5,2024-08-16,11.684,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+193,5,2024-08-19,11.752,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+199,5,2024-08-22,11.826,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+205,5,2024-08-23,11.808,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,IE00BYVQ9F29,5,5
+6,7,2024-07-11,163.44,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+13,7,2024-07-12,166.1,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+20,7,2024-07-15,163.16,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+27,7,2024-07-16,162.7,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+34,7,2024-07-17,164.72,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+62,7,2024-07-18,165.14,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+69,7,2024-07-19,163.04,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+79,7,2024-07-22,165.2,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+86,7,2024-07-23,166.28,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+93,7,2024-07-24,165.6,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+99,7,2024-07-25,164.82,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+105,7,2024-07-26,167.32,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+111,7,2024-07-29,165.5,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+117,7,2024-07-30,167.6,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+123,7,2024-07-31,168.78,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+129,7,2024-08-01,165.9,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+135,7,2024-08-02,163.48,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+141,7,2024-08-05,163.0,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+147,7,2024-08-06,161.3,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+153,7,2024-08-07,163.58,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+159,7,2024-08-08,162.74,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+165,7,2024-08-09,163.6,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+171,7,2024-08-12,162.3,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+177,7,2024-08-14,163.56,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+183,7,2024-08-15,165.12,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+189,7,2024-08-16,165.88,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+195,7,2024-08-19,165.4,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+201,7,2024-08-22,165.0,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+207,7,2024-08-23,165.92,"{'id': 'EUR', 'symbol': '€', 'prefix': False, 'crypto': False, 'precision': 2, 'marketcap': None, 'datetime': None, 'name': 'Euro'}",,FR0000120073,5,7
+232,67,2024-12-28,90169.523,,,FR0010330902,69,67
+247,67,2024-12-29,80842.913,,,FR0010330902,69,67
+262,67,2024-12-31,1711.943,,,FR0010330902,69,67
+277,67,2025-01-01,31916.983,,,FR0010330902,69,67
+292,67,2025-01-02,5688.777,,,FR0010330902,69,67
+307,67,2025-01-03,23888.827,,,FR0010330902,69,67
+322,67,2025-01-04,71029.11,,,FR0010330902,69,67
+337,67,2025-01-05,82091.943,,,FR0010330902,69,67
+352,67,2025-01-06,4198.233,,,FR0010330902,69,67
+367,67,2025-01-07,28104.443,,,FR0010330902,69,67
+382,67,2025-01-08,18709.62,,,FR0010330902,69,67
+397,67,2025-01-10,23253.343,,,FR0010330902,69,67
+412,67,2025-01-11,52654.617,,,FR0010330902,69,67
+241,78,2024-12-28,22483.007,,,LU0119345287,69,78
+256,78,2024-12-29,294.017,,,LU0119345287,69,78
+271,78,2024-12-31,2731.417,,,LU0119345287,69,78
+286,78,2025-01-01,305.307,,,LU0119345287,69,78
+301,78,2025-01-02,6523.357,,,LU0119345287,69,78
+316,78,2025-01-03,60.77,,,LU0119345287,69,78
+331,78,2025-01-04,20646.953,,,LU0119345287,69,78
+346,78,2025-01-05,4346.59,,,LU0119345287,69,78
+361,78,2025-01-06,3092.05,,,LU0119345287,69,78
+376,78,2025-01-07,469.437,,,LU0119345287,69,78
+391,78,2025-01-08,98.903,,,LU0119345287,69,78
+406,78,2025-01-10,3817.713,,,LU0119345287,69,78
+421,78,2025-01-11,31446.813,,,LU0119345287,69,78
+237,73,2024-12-28,13476.84,,,FR0010330902,69,73
+252,73,2024-12-29,9724.353,,,FR0010330902,69,73
+267,73,2024-12-31,60336.023,,,FR0010330902,69,73
+282,73,2025-01-01,3109.303,,,FR0010330902,69,73
+297,73,2025-01-02,34153.347,,,FR0010330902,69,73
+312,73,2025-01-03,862.943,,,FR0010330902,69,73
+327,73,2025-01-04,6426.193,,,FR0010330902,69,73
+342,73,2025-01-05,51974.947,,,FR0010330902,69,73
+357,73,2025-01-06,25213.633,,,FR0010330902,69,73
+372,73,2025-01-07,5130.347,,,FR0010330902,69,73
+387,73,2025-01-08,1553.177,,,FR0010330902,69,73
+402,73,2025-01-10,19334.567,,,FR0010330902,69,73
+417,73,2025-01-11,29159.683,,,FR0010330902,69,73
+227,61,2024-12-28,16714.657,,,FR0010330902,69,61
+242,61,2024-12-29,65410.92,,,FR0010330902,69,61
+257,61,2024-12-31,8958.927,,,FR0010330902,69,61
+272,61,2025-01-01,25779.307,,,FR0010330902,69,61
+287,61,2025-01-02,10909.293,,,FR0010330902,69,61
+302,61,2025-01-03,16782.64,,,FR0010330902,69,61
+317,61,2025-01-04,53513.41,,,FR0010330902,69,61
+332,61,2025-01-05,7226.067,,,FR0010330902,69,61
+347,61,2025-01-06,47.64,,,FR0010330902,69,61
+362,61,2025-01-07,25692.18,,,FR0010330902,69,61
+377,61,2025-01-08,30019.843,,,FR0010330902,69,61
+392,61,2025-01-10,8766.103,,,FR0010330902,69,61
+407,61,2025-01-11,24834.313,,,FR0010330902,69,61
+238,74,2024-12-28,63578.703,,,LU0304955437,69,74
+253,74,2024-12-29,1582.16,,,LU0304955437,69,74
+268,74,2024-12-31,33729.25,,,LU0304955437,69,74
+283,74,2025-01-01,16607.62,,,LU0304955437,69,74
+298,74,2025-01-02,7426.7,,,LU0304955437,69,74
+313,74,2025-01-03,703.737,,,LU0304955437,69,74
+328,74,2025-01-04,18922.023,,,LU0304955437,69,74
+343,74,2025-01-05,3700.497,,,LU0304955437,69,74
+358,74,2025-01-06,24835.18,,,LU0304955437,69,74
+373,74,2025-01-07,4818.94,,,LU0304955437,69,74
+388,74,2025-01-08,665.027,,,LU0304955437,69,74
+403,74,2025-01-10,7984.907,,,LU0304955437,69,74
+418,74,2025-01-11,22152.397,,,LU0304955437,69,74
+233,68,2024-12-28,16284.123,,,LU0304955437,69,68
+248,68,2024-12-29,24252.873,,,LU0304955437,69,68
+263,68,2024-12-31,12332.82,,,LU0304955437,69,68
+278,68,2025-01-01,37386.983,,,LU0304955437,69,68
+293,68,2025-01-02,11722.38,,,LU0304955437,69,68
+308,68,2025-01-03,5549.81,,,LU0304955437,69,68
+323,68,2025-01-04,34058.333,,,LU0304955437,69,68
+338,68,2025-01-05,14920.03,,,LU0304955437,69,68
+353,68,2025-01-06,50915.11,,,LU0304955437,69,68
+368,68,2025-01-07,7081.323,,,LU0304955437,69,68
+383,68,2025-01-08,5612.887,,,LU0304955437,69,68
+398,68,2025-01-10,6976.003,,,LU0304955437,69,68
+413,68,2025-01-11,19901.873,,,LU0304955437,69,68
+228,62,2024-12-28,767.717,,,LU0304955437,69,62
+243,62,2024-12-29,19623.277,,,LU0304955437,69,62
+258,62,2024-12-31,1150.457,,,LU0304955437,69,62
+273,62,2025-01-01,3638.11,,,LU0304955437,69,62
+288,62,2025-01-02,20230.51,,,LU0304955437,69,62
+303,62,2025-01-03,45334.067,,,LU0304955437,69,62
+318,62,2025-01-04,5061.81,,,LU0304955437,69,62
+333,62,2025-01-05,1585.183,,,LU0304955437,69,62
+348,62,2025-01-06,111.237,,,LU0304955437,69,62
+363,62,2025-01-07,8095.397,,,LU0304955437,69,62
+378,62,2025-01-08,23007.793,,,LU0304955437,69,62
+393,62,2025-01-10,492.44,,,LU0304955437,69,62
+408,62,2025-01-11,17809.243,,,LU0304955437,69,62
+229,63,2024-12-28,3947.52,,,FR0000121501,69,63
+244,63,2024-12-29,4241.677,,,FR0000121501,69,63
+259,63,2024-12-31,1245.033,,,FR0000121501,69,63
+274,63,2025-01-01,22035.87,,,FR0000121501,69,63
+289,63,2025-01-02,333.667,,,FR0000121501,69,63
+304,63,2025-01-03,16276.79,,,FR0000121501,69,63
+319,63,2025-01-04,7172.92,,,FR0000121501,69,63
+334,63,2025-01-05,21207.577,,,FR0000121501,69,63
+349,63,2025-01-06,85.84,,,FR0000121501,69,63
+364,63,2025-01-07,1506.853,,,FR0000121501,69,63
+379,63,2025-01-08,2949.927,,,FR0000121501,69,63
+394,63,2025-01-10,2027.03,,,FR0000121501,69,63
+409,63,2025-01-11,12786.36,,,FR0000121501,69,63
+234,69,2024-12-28,11835.407,,,FR0000121501,69,69
+249,69,2024-12-29,6323.07,,,FR0000121501,69,69
+264,69,2024-12-31,7239.54,,,FR0000121501,69,69
+279,69,2025-01-01,10778.267,,,FR0000121501,69,69
+294,69,2025-01-02,20110.69,,,FR0000121501,69,69
+309,69,2025-01-03,3281.78,,,FR0000121501,69,69
+324,69,2025-01-04,10217.5,,,FR0000121501,69,69
+339,69,2025-01-05,10441.473,,,FR0000121501,69,69
+354,69,2025-01-06,14582.413,,,FR0000121501,69,69
+369,69,2025-01-07,2612.97,,,FR0000121501,69,69
+384,69,2025-01-08,1423.093,,,FR0000121501,69,69
+399,69,2025-01-10,1340.067,,,FR0000121501,69,69
+414,69,2025-01-11,12542.597,,,FR0000121501,69,69
+239,75,2024-12-28,5222.373,,,FR0000121501,69,75
+254,75,2024-12-29,2041.093,,,FR0000121501,69,75
+269,75,2024-12-31,12944.037,,,FR0000121501,69,75
+284,75,2025-01-01,3725.263,,,FR0000121501,69,75
+299,75,2025-01-02,18312.66,,,FR0000121501,69,75
+314,75,2025-01-03,79.043,,,FR0000121501,69,75
+329,75,2025-01-04,56917.56,,,FR0000121501,69,75
+344,75,2025-01-05,6303.963,,,FR0000121501,69,75
+359,75,2025-01-06,31501.283,,,FR0000121501,69,75
+374,75,2025-01-07,363.457,,,FR0000121501,69,75
+389,75,2025-01-08,655.743,,,FR0000121501,69,75
+404,75,2025-01-10,3815.103,,,FR0000121501,69,75
+419,75,2025-01-11,4569.227,,,FR0000121501,69,75
+236,72,2024-12-28,1983.657,,,LU0119345287,69,72
+251,72,2024-12-29,366.393,,,LU0119345287,69,72
+266,72,2024-12-31,5045.453,,,LU0119345287,69,72
+281,72,2025-01-01,1307.737,,,LU0119345287,69,72
+296,72,2025-01-02,1642.693,,,LU0119345287,69,72
+311,72,2025-01-03,772.977,,,LU0119345287,69,72
+326,72,2025-01-04,1154.163,,,LU0119345287,69,72
+341,72,2025-01-05,6577.663,,,LU0119345287,69,72
+356,72,2025-01-06,10363.993,,,LU0119345287,69,72
+371,72,2025-01-07,453.403,,,LU0119345287,69,72
+386,72,2025-01-08,88.42,,,LU0119345287,69,72
+401,72,2025-01-10,1123.6,,,LU0119345287,69,72
+416,72,2025-01-11,2715.99,,,LU0119345287,69,72
+231,66,2024-12-28,1069.233,,,LU0119345287,69,66
+246,66,2024-12-29,1067.663,,,LU0119345287,69,66
+261,66,2024-12-31,1061.323,,,LU0119345287,69,66
+276,66,2025-01-01,849.957,,,LU0119345287,69,66
+291,66,2025-01-02,1602.457,,,LU0119345287,69,66
+306,66,2025-01-03,1589.633,,,LU0119345287,69,66
+321,66,2025-01-04,1756.773,,,LU0119345287,69,66
+336,66,2025-01-05,8615.91,,,LU0119345287,69,66
+351,66,2025-01-06,15.67,,,LU0119345287,69,66
+366,66,2025-01-07,3662.067,,,LU0119345287,69,66
+381,66,2025-01-08,7259.383,,,LU0119345287,69,66
+396,66,2025-01-10,2111.95,,,LU0119345287,69,66
+411,66,2025-01-11,2635.7,,,LU0119345287,69,66
+230,64,2024-12-28,4466.98,,,FR0010479931,69,64
+245,64,2024-12-29,609.42,,,FR0010479931,69,64
+260,64,2024-12-31,1320.983,,,FR0010479931,69,64
+275,64,2025-01-01,6610.763,,,FR0010479931,69,64
+290,64,2025-01-02,3899.7,,,FR0010479931,69,64
+305,64,2025-01-03,5462.5,,,FR0010479931,69,64
+320,64,2025-01-04,4843.673,,,FR0010479931,69,64
+335,64,2025-01-05,27746.717,,,FR0010479931,69,64
+350,64,2025-01-06,9.55,,,FR0010479931,69,64
+365,64,2025-01-07,18629.267,,,FR0010479931,69,64
+380,64,2025-01-08,8492.167,,,FR0010479931,69,64
+395,64,2025-01-10,773.13,,,FR0010479931,69,64
+410,64,2025-01-11,2552.777,,,FR0010479931,69,64
+240,76,2024-12-28,12084.79,,,FR0010479931,69,76
+255,76,2024-12-29,257.22,,,FR0010479931,69,76
+270,76,2024-12-31,2760.287,,,FR0010479931,69,76
+285,76,2025-01-01,2374.603,,,FR0010479931,69,76
+300,76,2025-01-02,175.277,,,FR0010479931,69,76
+315,76,2025-01-03,155.793,,,FR0010479931,69,76
+330,76,2025-01-04,7816.493,,,FR0010479931,69,76
+345,76,2025-01-05,1860.033,,,FR0010479931,69,76
+360,76,2025-01-06,11009.72,,,FR0010479931,69,76
+375,76,2025-01-07,1191.263,,,FR0010479931,69,76
+390,76,2025-01-08,50.91,,,FR0010479931,69,76
+405,76,2025-01-10,3963.943,,,FR0010479931,69,76
+420,76,2025-01-11,2417.88,,,FR0010479931,69,76
+235,70,2024-12-28,3912.36,,,FR0010479931,69,70
+250,70,2024-12-29,2849.713,,,FR0010479931,69,70
+265,70,2024-12-31,12931.73,,,FR0010479931,69,70
+280,70,2025-01-01,3016.14,,,FR0010479931,69,70
+295,70,2025-01-02,3955.353,,,FR0010479931,69,70
+310,70,2025-01-03,579.423,,,FR0010479931,69,70
+325,70,2025-01-04,3065.25,,,FR0010479931,69,70
+340,70,2025-01-05,3072.697,,,FR0010479931,69,70
+355,70,2025-01-06,3066.017,,,FR0010479931,69,70
+370,70,2025-01-07,1645.33,,,FR0010479931,69,70
+385,70,2025-01-08,687.7,,,FR0010479931,69,70
+400,70,2025-01-10,43.533,,,FR0010479931,69,70
+415,70,2025-01-11,1980.913,,,FR0010479931,69,70
